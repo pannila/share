@@ -8,7 +8,7 @@ A7MD.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 [ARMY]-PLAYER مرحبا بك في سرفر
-                               [ https://discord.gg/MPknZDS ] 
+                               [ https://discord.gg/6xxFKfb ] 
 الدعوة خاصة لك و لأصدقائك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
