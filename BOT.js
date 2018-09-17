@@ -6,10 +6,16 @@ console.log("BOT ONLINE");
 A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-**
-[ARMY]-PLAYER مرحبا بك في سرفر
-                               [ https://discord.gg/QUm5TyF ] 
-الدعوة خاصة لك و لأصدقائك ... [ ${member}  ]
+[ ${member}  ]
+هذا البوت يحتوي على أشياء رهيبة
+:white_check_mark: سريع
+:white_check_mark: متكامل
+:white_check_mark: يتضمن  ألعاب كثيرة
+:white_check_mark: برودكاست 
+:white_check_mark: الأوامر الإدارية
+لإضافة البوت إلى سرفر                               
+:arrow_right: [ http://cuon.io/rEVczg ] :arrow_left: 
+
 **`) 
 }).catch(console.error)
 })
