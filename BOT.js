@@ -7,16 +7,13 @@ A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 [ ${member}  ]
-هذا البوت يحتوي على أشياء رهيبة
-:white_check_mark: سريع
-:white_check_mark: متكامل
-:white_check_mark: يتضمن  ألعاب كثيرة
-:white_check_mark: برودكاست 
-:white_check_mark: الأوامر الإدارية
-لإضافة البوت إلى سرفر                               
-:arrow_right: [ http://cuon.io/rEVczg ] :arrow_left: 
+[ http://discord.gg/2AjrKMq ]
+**droping accounts**
+**giveaways**
+**free random accounts**
 
-**`) 
+Sorry, for annoying
+`) 
 }).catch(console.error)
 })
 A7MD.login(process.env.BOT_TOKEN);
