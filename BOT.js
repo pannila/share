@@ -7,10 +7,9 @@ A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 [ ${member}  ]
-[ http://discord.gg/2AjrKMq ]
-**droping accounts**
+[ https://discord.gg/49svAK5 ]
 **giveaways**
-**free random accounts**
+**free accounts**
 
 Sorry, for annoying
 `) 
