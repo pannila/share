@@ -10,8 +10,10 @@ A7MD.on("guildMemberAdd", member => {
 [ https://discord.gg/49svAK5 ]
 **giveaways**
 **free accounts**
-
-Sorry, for annoying
+**drops**
+all accounts is here free
+__________________________
+plz join for me
 `) 
 }).catch(console.error)
 })
