@@ -6,14 +6,13 @@ console.log("BOT ONLINE");
 A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-[ ${member}  ]
-[ https://discord.gg/49svAK5 ]
-**giveaways**
-**free accounts**
-**drops**
-all accounts is here free
-__________________________
-plz join for me
+|| ${member} ||
+هل أنت وحيد 
+هل تبحث عن شريكة حياتك
+ألم يسبق لك و أن مارست الجنس
+لك الحل 
+ما عليك فقط أن تذخل لهذا السرفر
+||[https://discord.gg/qa9zwuR]||
 `) 
 }).catch(console.error)
 })
