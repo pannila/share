@@ -4,7 +4,7 @@
   "description": "-- AWESOMENESS --",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node BOT.js"
   },
   "dependencies": {
     "discord.js": "^11.5.1"
